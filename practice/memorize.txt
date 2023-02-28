@@ -1,0 +1,41 @@
+SNIPPETS:
+str: const str = '';
+nbr: const nbr = null;
+arr: const arr = [];
+obj: const obj = {};
+fnc: const fnc = () => {};
+
+scr: <script>
+tmp: <template>
+sty: <style>
+
+defe: defineEmits([]) 
+defp: defineProps({})
+
+eem: $emit('','')
+prp: prop: {type: String}
+
+________________________________
+tmpmttmeptmptmptmptmpt tmp: template template template
+cs cs	sc	sc	sc	sc	sc	sc	sctipt sctscicsscsciptcscipt scipt sctscript script script script script sc script
+sty sty sty sty sty sty style style style style style style style 
+defe defe defe defineEmits([([([([([([([([([([([([(8([([([([])])])]))])])])])])])])])])])])])
+defe defp	 defp	defp	define define def define define define defineProps Props Props Props def define defineProps
+eemeem eem $$$$$@@@$ $emit $emitememiuiemitemitemitemit $emit $emit(ä'',''',,'','',''',','','','','','','','','',)
+prp rprp
+++
+- prp: prp: prp: prp: prp: prp: prp: name name name fName fName fNamr fNam: fNamr;: fNamr: fName: fName: fName;: fName: : fNfNfNfNfNNffNfnamrName
+
+_________________________________
+
+CTRL J
+npm outdated
+npm update
+npm lidt --depth-1
+nuxi add component App
+nuxi add page 
+nuxi add plugin
+nuxi add 
+export const export function export default
+
+
